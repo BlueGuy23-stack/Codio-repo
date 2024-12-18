@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Output a message
-        run: echo "Action Complete! 1"
+        run: echo "Action Complete!"
